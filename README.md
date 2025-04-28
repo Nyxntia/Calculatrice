@@ -1,5 +1,4 @@
 TP4_QualiteDev
-Description
 
 Projet réalisé dans le cadre du TP4 de Qualité de développement.
 
