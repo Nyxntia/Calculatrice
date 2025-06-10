@@ -1,6 +1,9 @@
-TP4_QualiteDev
 
-Projet réalisé dans le cadre du TP4 de Qualité de développement.
+# Calculatrice
+
+Ce projet a été réalisé dans le cadre du TP de Qualité de Développement.  
+Il s'agit d'une application Java permettant d'effectuer des **opérations arithmétiques** simples, accompagnée de **tests unitaires** pour garantir la fiabilité des résultats.
+
 
 Ce projet consiste à :
 
