@@ -4,18 +4,21 @@
 Ce projet a été réalisé dans le cadre du TP de Qualité de Développement.  
 Il s'agit d'une application Java permettant d'effectuer des **opérations arithmétiques** simples, accompagnée de **tests unitaires** pour garantir la fiabilité des résultats.
 
+## Fonctionnalités
 
-Ce projet consiste à :
+- ➕ Addition
+- ➖ Soustraction
+- ✖️ Multiplication
+- Tests unitaires pour chaque opération
 
-    Créer les classes Java Horaire, PlageHoraire, ExceptionPlageHoraire, ExceptionPlanning.
+## Prérequis
 
-    Ajouter des tests unitaires pour vérifier le bon fonctionnement des classes.
+- **Java 17** (ou version compatible)
+- **Maven**
+- **JUnit** (intégré via Maven)
 
-    Organiser le projet sous Maven.
-
-    Versionner proprement chaque étape du développement avec des commits clairs.
-
-Organisation du dépôt
+  
+## Organisation du dépôt
 
     src/main/java/modele/ : Contient les classes principales du projet.
 
